@@ -49,8 +49,6 @@ function cliquei() {
     }
 
 }
-
-
 function changeCurrency() {
     const currencyName = document.querySelector('.para3')
     const currencyImg = document.querySelector('.eua')
